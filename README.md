@@ -31,6 +31,44 @@ React Router Boiler Plate - No CSS
 
 - **React Router:** React Router is an external library for React that provides routing capabilities. It allows developers to create multi-page applications within React, enabling navigation between different components without reloading the entire page.
 
+## Getting Started with the Project
+
+### 1. **Clone the Repository**:
+First, you'll need to get a copy of the repository on your local machine. You can do this using git. There are three common methods to clone a repository: USing the gitHub CLI, HTTPS and SSH.
+
+#### 1.1. **Using HTTPS**:
+This is the default method and works universally. Simply copy the HTTPS URL from the repository's main page and use the following command:
+
+```bash
+https://github.com/Technigo/react-router-boiler-plate-no-css.git
+```
+
+#### 1.2. **Using SSH**:
+For those who have set up SSH keys with GitHub, this method provides a secure way without needing to enter your credentials every time. First, <a target="_blank" rel="noopener noreferrer" href="https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh ">
+ensure you've set up SSH keys with GitHub
+</a>  . Then, copy the SSH URL from the repository's main page and use the following command:
+
+
+```bash
+git clone git@github.com:Technigo/react-router-boiler-plate-no-css.git
+```
+
+#### 1.3. **Using Github CLI**:
+If you have the [GitHub CLI](https://cli.github.com/) installed, you can easily clone the repository and even perform many other GitHub operations directly from the command line. To clone the repository using GitHub CLI, use the following command:
+
+```bash
+gh repo clone Technigo/react-router-boiler-plate-no-css
+```
+
+### 2. **Dependency Installation & Startup Development Server**:
+Once cloned, navigate to the project's root directory and this project uses npm (Node Package Manager) to manage its dependencies.
+
+The below command is a combination of installing dependencies, opening up the project on VS Code and it will run a development server on your terminal.
+
+```bash
+npm i && code . && npm run dev 
+```
+
 ## Installing the React Library
 
 React Router is an essential library for routing in React applications. There are a couple of ways you can install it, depending on your project's needs.
