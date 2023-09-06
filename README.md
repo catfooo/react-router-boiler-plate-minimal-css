@@ -10,7 +10,7 @@
 
 Welcome, Technigo students! This boilerplate is designed specifically for you. We understand the importance of a smooth start, especially when diving into libraries like React Router. With this in mind, we've crafted an out-of-the-box solution to help you seamlessly integrate the router library into your projects.
 
-<a target="_blank" rel="noopener noreferrer" href="https://technigo-boiler-plate-no-css.netlify.app/">
+<a target="_blank" rel="noopener noreferrer" href="https://technigo-boiler-plate-minimal-css.netlify.app/">
 Demo
 </a>
 
