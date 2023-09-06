@@ -14,7 +14,6 @@ Welcome, Technigo students! This boilerplate is designed specifically for you. W
 
 If you want a cleaner version of this boiler plate with no css, please go to the following link:
 
-[React Router Boiler Plate - No CSS](https://www.geeksforgeeks.org/)
 <a href="https://github.com/Technigo/react-router-boiler-plate-minimal-css/tree/main">
 React Router Boiler Plate - No CSS
 </a>
