@@ -25,3 +25,26 @@ npm install react-router-dom
 ```
 
 With this boilerplate, you're not just getting a template; you're getting a head start. Dive in and make the most of your learning journey with Technigo!
+
+### Navigating through this repository
+
+#### 1. **Routes Configuration (`src/routes/routes.jsx`)**:
+
+This file is the heart of the routing system in this repository. It defines the paths and their associated components. Here's a quick look:
+
+```jsx
+import { Route } from "react-router-dom";
+import Home from "../pages/Home";
+import About from "../pages/About";
+import Contact from "../pages/Contact";
+
+const routes = (
+  <>
+    <Route path="/" element={<Home />} />
+    <Route path="/about" element={<About />} />
+    <Route path="/contact" element={<Contact />} />
+  </>
+);
+
+export default routes;
+```
