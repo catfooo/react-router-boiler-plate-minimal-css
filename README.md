@@ -10,6 +10,12 @@
 
 Welcome, Technigo students! This boilerplate is designed specifically for you. We understand the importance of a smooth start, especially when diving into libraries like React Router. With this in mind, we've crafted an out-of-the-box solution to help you seamlessly integrate the router library into your projects.
 
+### NO CSS Boiler Plate
+
+If you want a cleaner version of this boiler plate with no css, please go to the following link:
+
+[React Router Boiler Plate - No CSS](https://www.geeksforgeeks.org/){:target="\_blank"}
+
 ## Original Features:
 
 - **Vite Integration:** Experience the speed and efficiency of Vite, ensuring your React projects are lightning-fast.
