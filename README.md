@@ -49,8 +49,9 @@ const routes = (
 export default routes;
 ```
 
-2. Pages:
-   These are the components that get rendered when you navigate to a specific route.
+#### 2. Pages:
+
+These are the components that get rendered when you navigate to a specific route.
 
 Home (src/pages/Home.jsx): This is the landing page. It provides a warm welcome to Technigo students and offers some insights into the boilerplate's features.
 
