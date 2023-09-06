@@ -61,7 +61,7 @@ These are the components that get rendered when you navigate to a specific route
 
 #### 3. Main App Component (src/App.jsx):
 
-This is where the magic happens! The BrowserRouter wraps our entire application, enabling the use of routing functionalities. Inside, you'll find a navigation bar with links to our defined routes and a Routes component that renders the appropriate page based on the current path.
+This is where the magic happens! The `BrowserRouter` wraps our entire application, enabling the use of routing functionalities. Inside, you'll find a navigation bar with links to our defined routes and a Routes component that renders the appropriate page based on the current path.
 
 ```jsx
 import { BrowserRouter, Link, Routes } from "react-router-dom";
