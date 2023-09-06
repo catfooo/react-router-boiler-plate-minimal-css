@@ -58,3 +58,37 @@ These are the components that get rendered when you navigate to a specific route
 **About (src/pages/About.jsx):** A simple about page with some placeholder text. It also displays some logos using the Logos component.
 
 **Contact (src/pages/Contact.jsx):** Similar to the About page, it's a placeholder for contact information.
+
+#### 3. Main App Component (src/App.jsx):
+
+This is where the magic happens! The BrowserRouter wraps our entire application, enabling the use of routing functionalities. Inside, you'll find a navigation bar with links to our defined routes and a Routes component that renders the appropriate page based on the current path.
+
+```jsx
+import { BrowserRouter, Link, Routes } from "react-router-dom";
+import routes from "./routes/routes";
+
+function App() {
+  return (
+    <BrowserRouter>
+      <nav>
+        <ul>
+          <li>
+            <Link to="/">Home</Link>
+          </li>
+          <li>
+            <Link to="/about">About</Link>
+          </li>
+          <li>
+            <Link to="/contact">Contact</Link>
+          </li>
+        </ul>
+      </nav>
+      <main>
+        <Routes>{routes}</Routes>
+      </main>
+    </BrowserRouter>
+  );
+}
+
+export default App;
+```
