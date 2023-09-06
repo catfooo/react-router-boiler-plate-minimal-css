@@ -53,8 +53,8 @@ export default routes;
 
 These are the components that get rendered when you navigate to a specific route.
 
-Home (src/pages/Home.jsx): This is the landing page. It provides a warm welcome to Technigo students and offers some insights into the boilerplate's features.
+**Home (src/pages/Home.jsx):** This is the landing page. It provides a warm welcome to Technigo students and offers some insights into the boilerplate's features.
 
-About (src/pages/About.jsx): A simple about page with some placeholder text. It also displays some logos using the Logos component.
+**About (src/pages/About.jsx):** A simple about page with some placeholder text. It also displays some logos using the Logos component.
 
-Contact (src/pages/Contact.jsx): Similar to the About page, it's a placeholder for contact information.
+**Contact (src/pages/Contact.jsx):** Similar to the About page, it's a placeholder for contact information.
