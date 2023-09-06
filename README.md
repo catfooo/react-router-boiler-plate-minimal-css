@@ -49,7 +49,7 @@ const routes = (
 export default routes;
 ```
 
-#### 2. Pages:
+#### 2. Pages Folder Structure:
 
 These are the components that get rendered when you navigate to a specific route.
 
