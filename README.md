@@ -1,6 +1,6 @@
 # React Router Boilerplate for Technigo Students
 
-### React + Vite + React Router Library
+### React + Vite + React Router Library + Minimal CSS
 
 Welcome, Technigo students! This boilerplate is designed specifically for you. We understand the importance of a smooth start, especially when diving into libraries like React Router. With this in mind, we've crafted an out-of-the-box solution to help you seamlessly integrate the router library into your projects.
 
