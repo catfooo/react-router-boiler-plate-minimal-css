@@ -1,3 +1,9 @@
+<h1 align="center">
+  <a href="https://github.com/Technigo/react-router-boiler-plate-minimal-css/tree/main">
+    <img src="/src/assets/boiler-plate-banner.svg" alt="Boiler Plate">
+  </a>
+</h1>
+
 # React Router Boilerplate for Technigo Students
 
 ### React + Vite + React Router Library + Minimal CSS
