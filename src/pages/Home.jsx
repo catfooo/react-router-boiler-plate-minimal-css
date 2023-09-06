@@ -31,7 +31,7 @@ function Home() {
     </li>
     <li>
       If you are feeling lazy you use this
-      <a href="http://" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/Technigo/react-router-boiler-plate-no-css" target="_blank" rel="noopener noreferrer">
         minimal starter with no styling
       </a>
     </li>
