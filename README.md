@@ -12,7 +12,7 @@ Welcome, Technigo students! This boilerplate is designed specifically for you. W
 
 ## Custom Integrations:
 
--- **React Router:** React Router is an external library for React that provides routing capabilities. It allows developers to create multi-page applications within React, enabling navigation between different components without reloading the entire page.
+- **React Router:** React Router is an external library for React that provides routing capabilities. It allows developers to create multi-page applications within React, enabling navigation between different components without reloading the entire page.
 
 ## Installing the React Library
 
